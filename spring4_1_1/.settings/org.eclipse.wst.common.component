@@ -2,7 +2,6 @@
     <wb-module deploy-name="spring4_1_1">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/kosmo80/mvc/sp4"/>
         <property name="context-root" value="spring4_1_1"/>
         <property name="java-output-path" value="/spring4_1_1/build/classes"/>
     </wb-module>
